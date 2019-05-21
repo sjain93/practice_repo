@@ -17,4 +17,5 @@ function findNemo(array) {
 // basic loop to investigate how to optimize through using BigO notation
 findNemo(large);
 
-// function has a O(n) or linear time
+// function has a O(n) or linear time- in this case O(10000)
+// fair Big O complexity
